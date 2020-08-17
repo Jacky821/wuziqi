@@ -18,7 +18,7 @@
 {
     self = [super initWithFrame:frame];
     if (self) {
-        //test
+        //test  eee
         self.clickedBlock = clickedBlock;
         self.layer.cornerRadius = 5;
         self.layer.borderWidth = 1;
